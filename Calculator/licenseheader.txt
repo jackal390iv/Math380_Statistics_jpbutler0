@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Class: MATH 380-001
+${licensePrefix}Project: Calculator
+<#if licenseLast??>
+${licenseLast}
+</#if>
