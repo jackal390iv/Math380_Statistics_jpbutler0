@@ -6,8 +6,22 @@ package math380.calculator.scanner;
 
 /**
  *
- * @author cromwell
+ * @author Jonathan Butler <https://github.com/jackal390iv>
  */
 public class Scanner {
+
+    public Scanner() {
+
+    }
     
+    public void decompress(String input){
+        
+    }
+    
+    public void output(){
+        
+    }
+    
+    
+
 }
